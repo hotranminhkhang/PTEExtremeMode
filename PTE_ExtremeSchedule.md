@@ -5,11 +5,11 @@
 | ---------------- | :------- | ----------: |
 | Read Aloud       | 10       |     10 mins |
 | Describe Image   | 5        |      5 mins |
-| Repeat Sentences | 50       |     20 mins |
-| Dictation        | 50       |     20 mins |
+| Repeat Sentences | 50       |     30 mins |
+| Dictation        | 50       |     30 mins |
 | FIB-R            | 10       |     10 mins |
 | FIB-RW           | 15       |     15 mins |
-| **Total**        |          | **80 mins** |
+| **Total**        |          | **100 mins** |
 
 ## Tuesday
 | Task                  | Quantity |       Effort |
